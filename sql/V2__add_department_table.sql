@@ -1,4 +1,4 @@
 CREATE TABLE DepartmentMaster(
-	DepartmentCode nvarchar(6) NOT NULL,
-	DepartmentName nvarchar(100) NULL
+	DepartmentCode varchar(6) NOT NULL,
+	DepartmentName varchar(100) NULL
 );
